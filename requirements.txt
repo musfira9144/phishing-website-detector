@@ -1,0 +1,10 @@
+streamlit==1.24.1
+scikit-learn==1.4.2
+pandas
+numpy
+joblib
+requests
+beautifulsoup4
+lxml
+matplotlib
+plotly
