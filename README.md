@@ -29,5 +29,7 @@ We used the **Phishing Dataset for Machine Learning** from Kaggle:
 - **Deployment:** Streamlit Community Cloud  
 
 ---
+## 🔗 Streamlit Link
+👉 **[Click to Open Streamlit App](https://phishing-website-detector-gjp5icnx45ye6jef3ch675.streamlit.app/)** 
 
 
